@@ -10,7 +10,7 @@ module.exports = {
   siteMetadata: {
     title: `Brandie Burditt`,
     description: `Personal Site`,
-    author: `@rohitguptab`,
+    author: `@`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -34,8 +34,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rohit Gupta`,
-        short_name: `Rohit Gupta`,
+        name: `Brandie Burditt`,
+        short_name: `Brandie Burditt`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#333`,

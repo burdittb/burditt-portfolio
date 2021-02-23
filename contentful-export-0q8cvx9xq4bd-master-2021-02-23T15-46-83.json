@@ -3298,7 +3298,7 @@
         "id": "7yHuAa09NVOcZ25POk7cbM",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.305Z",
-        "updatedAt": "2021-02-23T17:01:56.740Z",
+        "updatedAt": "2021-02-23T20:45:41.142Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3306,8 +3306,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 44,
-        "publishedAt": "2021-02-23T17:01:56.740Z",
+        "publishedVersion": 48,
+        "publishedAt": "2021-02-23T20:45:41.142Z",
         "firstPublishedAt": "2021-02-16T23:56:43.984Z",
         "createdBy": {
           "sys": {
@@ -3323,8 +3323,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 10,
-        "version": 45,
+        "publishedCounter": 11,
+        "version": 49,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3339,9 +3339,9 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7yHuAa09NVOcZ25POk7cbM/b88a57860141d9c55882c832d8648aba/Brandie_Logo.png",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7yHuAa09NVOcZ25POk7cbM/798cfc213a3795b306c7d80a7af7af71/Brandie_Logo.png",
             "details": {
-              "size": 9819,
+              "size": 9823,
               "image": {
                 "width": 500,
                 "height": 500
