@@ -1,5 +1,5 @@
-import React from "react";
-import Img from "gatsby-image";
+import React from 'react';
+import Img from 'gatsby-image';
 
 const Header = ({ data }) => (
   <div className="about section" id="About">
@@ -16,21 +16,17 @@ const Header = ({ data }) => (
           <div className="about-details">
             <span className="name">My Name is {data.name}.</span>
             <h2 className="sub-position">
-              I'm a Professional {data.designation}.
+              I'm a Fashion Designer turned Developer.
             </h2>
             <div
               dangerouslySetInnerHTML={{
-                __html: data.description.childMarkdownRemark.html
+                __html: data.description.childMarkdownRemark.html,
               }}
             />
             <ul className="details">
               <li>
                 <strong>Full Name</strong>
                 <p>{data.name}</p>
-              </li>
-              <li>
-                <strong>Age</strong>
-                <p>{data.age} Years</p>
               </li>
               <li>
                 <strong>Location</strong>
@@ -45,30 +41,6 @@ const Header = ({ data }) => (
             </ul>
             <div className="socials">
               <ul>
-                <li>
-                  <a
-                    className="fab fa-facebook-f"
-                    href={data.facebook}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    className="fab fa-twitter"
-                    href={data.twitter}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    className="fab fa-instagram"
-                    href={data.instagram}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  ></a>
-                </li>
                 <li>
                   <a
                     className="fab fa-linkedin-in"
