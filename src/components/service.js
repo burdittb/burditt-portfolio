@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 export default class service extends Component {
   render() {
@@ -7,7 +7,7 @@ export default class service extends Component {
       <div className="service section" id="Service">
         <div className="container">
           <div className="section-head">
-            <h2>Service</h2>
+            <h2>Skills</h2>
           </div>
           <div className="row">
             {data.edges.map((item, index) => {
@@ -17,7 +17,7 @@ export default class service extends Component {
                     <h3>{item.node.title}</h3>
                     <div
                       dangerouslySetInnerHTML={{
-                        __html: item.node.description.childMarkdownRemark.html
+                        __html: item.node.description.childMarkdownRemark.html,
                       }}
                     />
                   </div>

@@ -140,6 +140,7 @@ body {
   color: #fff;
   position: relative;
   overflow: hidden;
+  border-radius: 5px;
 }
 .banner .banner-details .social li a:after {
   content: '';
@@ -165,7 +166,7 @@ body {
   align-items: center;
 }
 .site-header .header-main .logo {
-  width: 70px;
+  width: 60px;
 }
 .site-header .header-main .menu {
   width: 90%;
@@ -255,6 +256,7 @@ body {
   color: #333;
   position: relative;
   overflow: hidden;
+  border-radius: 5px;
 }
 .about-details .socials ul li a:before {
   position: relative;
@@ -507,6 +509,10 @@ form > div {
 }
 .blogs-list.few-blogs .item .inner .gatsby-image-wrapper {
   height: 300px;
+}
+
+.blogs-list.few-blogs .item .inner .gatsby-image-wrapper img {
+  width: 50%;
 }
 
 h2,
@@ -908,6 +914,19 @@ code {
   -webkit-transform: scale(1.1) !important;
   transform: scale(1.1) !important;
 }
+
+@media only screen and (min-width: 768px) {
+  .service-main {
+    height: 200px;
+  }
+}
+
+@media only screen and (min-width: 991px) {
+  .service-main {
+    height: 160px;
+  }
+}
+
 @media only screen and (max-width: 991px) {
   .blogs-list .item {
     width: 50% !important;
@@ -1008,12 +1027,13 @@ code {
     font-size: 14px;
   }
   .about-main .left .gatsby-image-wrapper {
-    /* width: 80%;
-    margin: auto; */
-    /* height: 400px !important; */
     display: flex;
-    border: 6px solid orange;
-    /* justify-content: center; */
+    justify-content: center;
+  }
+
+  .about-main .left .gatsby-image-wrapper img {
+    width: 50% !important;
+    left: 25% !important;
   }
 }
 @media only screen and (max-width: 568px) {
@@ -1051,6 +1071,6 @@ code {
 }
 @media only screen and (max-width: 480px) {
   .about-main .left .gatsby-image-wrapper {
-    height: 400px;
+    width: 400px;
   }
 }
