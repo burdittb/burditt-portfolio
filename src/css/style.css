@@ -18,7 +18,7 @@ img {
   color: #fff;
 }
 a {
-  color: #ef5826;
+  color: #554c77;
 }
 h2 {
   font-size: 28px;
@@ -42,7 +42,7 @@ p {
   height: 100vh;
 }
 a:hover {
-  color: #d83d0a;
+  color: #554c77;
   text-decoration: underline;
 }
 .banner .banner-details {
@@ -144,7 +144,7 @@ body {
 }
 .banner .banner-details .social li a:after {
   content: '';
-  background: #ef5826;
+  background: #554c77;
   position: absolute;
   top: -100%;
   left: 0;
@@ -285,6 +285,7 @@ body {
   padding: 30px 30px;
   transition: 0.5s all;
   background: #fff;
+  border-radius: 5px;
 }
 .section:nth-child(even) .service-main {
   background: #fafafe;
@@ -357,8 +358,7 @@ body {
   object-fit: cover;
   border-radius: 100%;
 }
-/* .testi-inner p {
-} */
+
 .testi-inner .name {
   margin: 0;
 }
@@ -390,6 +390,7 @@ form textarea {
   -webkit-transition: none 0s ease 0s;
   transition: none 0s ease 0s;
   border: 1px solid hsla(0, 0%, 80%, 0.37);
+  border-radius: 5px;
   margin: 10px 0 0;
 }
 form textarea {
@@ -527,7 +528,7 @@ h2:after,
   height: 1px;
   display: inline-block;
   position: absolute;
-  background: #ef5826;
+  background: #554c77;
   top: 100%;
   left: 0;
 }
@@ -583,6 +584,11 @@ h2:after,
   padding: 0 5px;
   margin-bottom: 10px;
 }
+
+.work-list .item img {
+  border-radius: 5px;
+}
+
 .testimonials .slick-list * {
   outline: none !important;
 }
@@ -636,6 +642,7 @@ pre {
 }
 .about-main .left .gatsby-image-wrapper img {
   object-position: top center !important;
+  border-radius: 5px;
 }
 .slick-slider .slick-list .avatar {
   width: 100px;
@@ -949,10 +956,6 @@ code {
   }
 }
 @media only screen and (max-width: 767px) {
-  /* .site-header .header-main .logo {
-    width: 90%;
-    width: calc(100% - 30px);
-  } */
   .site-header .header-main {
     flex-wrap: wrap;
     align-items: center;

@@ -1321,7 +1321,7 @@
         "id": "5rrD15RhF8dMqpeLktOozn",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:44.576Z",
-        "updatedAt": "2021-02-23T22:38:18.083Z",
+        "updatedAt": "2021-02-25T22:11:21.352Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1329,8 +1329,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 20,
-        "publishedAt": "2021-02-23T22:38:18.083Z",
+        "publishedVersion": 21,
+        "publishedAt": "2021-02-25T22:11:21.352Z",
         "firstPublishedAt": "2021-02-16T23:56:56.542Z",
         "createdBy": {
           "sys": {
@@ -1346,8 +1346,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 21,
+        "publishedCounter": 9,
+        "version": 22,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1447,7 +1447,7 @@
         "id": "2MEkguSekmXg1wtgqfEaXV",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:44.621Z",
-        "updatedAt": "2021-02-23T22:37:27.927Z",
+        "updatedAt": "2021-02-25T22:11:38.067Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1455,8 +1455,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 24,
-        "publishedAt": "2021-02-23T22:37:27.927Z",
+        "publishedVersion": 26,
+        "publishedAt": "2021-02-25T22:11:38.067Z",
         "firstPublishedAt": "2021-02-16T23:56:56.841Z",
         "createdBy": {
           "sys": {
@@ -1472,8 +1472,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 25,
+        "publishedCounter": 9,
+        "version": 27,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1494,7 +1494,7 @@
           "en-US": "Frontend"
         },
         "description": {
-          "en-US": "Javascript — React — Redux — React Native — HTML — CSS"
+          "en-US": "Javascript — React — Redux — React Native — HTML5 — CSS3"
         }
       }
     },
@@ -1732,78 +1732,6 @@
             "id": "0q8cvx9xq4bd"
           }
         },
-        "id": "nTJ0ZCWfXZbCWNfmkBTUh",
-        "type": "Entry",
-        "createdAt": "2021-02-16T23:56:46.311Z",
-        "updatedAt": "2021-02-17T23:10:51.509Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 13,
-        "publishedAt": "2021-02-17T23:10:51.509Z",
-        "firstPublishedAt": "2021-02-16T23:56:50.080Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "publishedCounter": 7,
-        "version": 14,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 5"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "4R3Nt1Xxk9zUtIAkWqPrW3"
-            }
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "0q8cvx9xq4bd"
-          }
-        },
         "id": "6caZg1KgLxQN4VE2QOJbCk",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:46.402Z",
@@ -1931,7 +1859,7 @@
         "id": "1Ru4ygYcLdmmqpMZgyedvc",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:46.519Z",
-        "updatedAt": "2021-02-17T23:10:51.718Z",
+        "updatedAt": "2021-02-25T21:13:10.644Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1939,8 +1867,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 13,
-        "publishedAt": "2021-02-17T23:10:51.718Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-25T21:13:10.644Z",
         "firstPublishedAt": "2021-02-16T23:56:50.281Z",
         "createdBy": {
           "sys": {
@@ -1956,8 +1884,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 14,
+        "publishedCounter": 8,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1975,10 +1903,10 @@
       },
       "fields": {
         "siteName": {
-          "en-US": "Site Name 3"
+          "en-US": "Fullsnack Sweet Shop"
         },
         "url": {
-          "en-US": "#"
+          "en-US": "https://fullsnack-sweet-shop.herokuapp.com/"
         },
         "image": {
           "en-US": {
@@ -2000,82 +1928,10 @@
             "id": "0q8cvx9xq4bd"
           }
         },
-        "id": "5yj9TpsOj2xAzKI7tBMdxh",
-        "type": "Entry",
-        "createdAt": "2021-02-16T23:56:46.565Z",
-        "updatedAt": "2021-02-17T23:10:51.006Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 13,
-        "publishedAt": "2021-02-17T23:10:51.006Z",
-        "firstPublishedAt": "2021-02-16T23:56:49.474Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "publishedCounter": 7,
-        "version": 14,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 6"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "1cxUznYGiPOJ5GNNpkVAOr"
-            }
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "0q8cvx9xq4bd"
-          }
-        },
         "id": "39bytjGpmt1wO1LeZUljr",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:46.602Z",
-        "updatedAt": "2021-02-17T23:10:51.254Z",
+        "updatedAt": "2021-02-25T21:27:33.485Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2083,8 +1939,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 13,
-        "publishedAt": "2021-02-17T23:10:51.254Z",
+        "publishedVersion": 16,
+        "publishedAt": "2021-02-25T21:27:33.485Z",
         "firstPublishedAt": "2021-02-16T23:56:49.743Z",
         "createdBy": {
           "sys": {
@@ -2100,8 +1956,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 14,
+        "publishedCounter": 8,
+        "version": 17,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2119,10 +1975,10 @@
       },
       "fields": {
         "siteName": {
-          "en-US": "Site Name 4"
+          "en-US": "Create and Deploy a PWA"
         },
         "url": {
-          "en-US": "#"
+          "en-US": "https://brandieburditt.medium.com/create-and-deploy-a-progressive-web-app-pwa-with-react-and-firebase-8a146696d355"
         },
         "image": {
           "en-US": {
@@ -2147,7 +2003,7 @@
         "id": "19MTmPou8GOGA8v8IVrEGc",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:46.622Z",
-        "updatedAt": "2021-02-17T23:10:51.947Z",
+        "updatedAt": "2021-02-25T21:09:29.375Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2155,8 +2011,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 13,
-        "publishedAt": "2021-02-17T23:10:51.947Z",
+        "publishedVersion": 18,
+        "publishedAt": "2021-02-25T21:09:29.375Z",
         "firstPublishedAt": "2021-02-16T23:56:50.687Z",
         "createdBy": {
           "sys": {
@@ -2172,8 +2028,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 14,
+        "publishedCounter": 9,
+        "version": 19,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2191,10 +2047,10 @@
       },
       "fields": {
         "siteName": {
-          "en-US": "Site Name 2"
+          "en-US": "imbibe"
         },
         "url": {
-          "en-US": "#"
+          "en-US": "https://imbibe-app.web.app/"
         },
         "image": {
           "en-US": {
@@ -3094,7 +2950,7 @@
         "id": "1SI8CkaEpAjaXLVcUkcIPA",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.266Z",
-        "updatedAt": "2021-02-17T23:10:45.278Z",
+        "updatedAt": "2021-02-25T20:38:17.033Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3102,8 +2958,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2021-02-17T23:10:45.278Z",
+        "publishedVersion": 31,
+        "publishedAt": "2021-02-25T20:38:17.033Z",
         "firstPublishedAt": "2021-02-16T23:56:43.678Z",
         "createdBy": {
           "sys": {
@@ -3119,8 +2975,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 23,
+        "publishedCounter": 9,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3131,20 +2987,20 @@
       },
       "fields": {
         "title": {
-          "en-US": "johnson-wang-iI4sR nkkbc-unsplash"
+          "en-US": "parallel-cover"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1SI8CkaEpAjaXLVcUkcIPA/391a982bef27e2a9d280a1be53f7040c/johnson-wang-iI4sR_nkkbc-unsplash.jpg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1SI8CkaEpAjaXLVcUkcIPA/25f262dcf2f3d393dadd1467e3ceefeb/Website_Works__1_.png",
             "details": {
-              "size": 651268,
+              "size": 1036762,
               "image": {
-                "width": 2466,
-                "height": 1621
+                "width": 2000,
+                "height": 1250
               }
             },
-            "fileName": "johnson-wang-iI4sR_nkkbc-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Website_Works (1).png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4166,7 +4022,7 @@
         "id": "5lvkZ1FDXMzUud9VKR1Ruq",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.358Z",
-        "updatedAt": "2021-02-17T23:10:42.989Z",
+        "updatedAt": "2021-02-25T22:41:42.741Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4174,8 +4030,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2021-02-17T23:10:42.989Z",
+        "publishedVersion": 31,
+        "publishedAt": "2021-02-25T22:41:42.741Z",
         "firstPublishedAt": "2021-02-16T23:56:39.136Z",
         "createdBy": {
           "sys": {
@@ -4191,8 +4047,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 23,
+        "publishedCounter": 9,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4203,20 +4059,20 @@
       },
       "fields": {
         "title": {
-          "en-US": "jesus-kiteque-wn-KYaHwcis-unsplash"
+          "en-US": "create and deploy a pwa"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/5lvkZ1FDXMzUud9VKR1Ruq/24845c46a7226e04a9f667cc4ea0b953/jesus-kiteque-wn-KYaHwcis-unsplash.jpg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/5lvkZ1FDXMzUud9VKR1Ruq/d52afba20728c0ab3c104f8a31cc143f/Website_Works__7_.png",
             "details": {
-              "size": 421692,
+              "size": 669197,
               "image": {
-                "width": 4096,
-                "height": 2726
+                "width": 2000,
+                "height": 1250
               }
             },
-            "fileName": "jesus-kiteque-wn-KYaHwcis-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Website_Works (7).png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4233,7 +4089,7 @@
         "id": "LkWkisSeBiTaYyaaH6OTr",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.364Z",
-        "updatedAt": "2021-02-17T23:10:44.514Z",
+        "updatedAt": "2021-02-25T21:09:07.593Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4241,8 +4097,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2021-02-17T23:10:44.514Z",
+        "publishedVersion": 27,
+        "publishedAt": "2021-02-25T21:09:07.593Z",
         "firstPublishedAt": "2021-02-16T23:56:40.002Z",
         "createdBy": {
           "sys": {
@@ -4258,8 +4114,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 23,
+        "publishedCounter": 8,
+        "version": 28,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4270,20 +4126,20 @@
       },
       "fields": {
         "title": {
-          "en-US": "plush-design-studio-y7GlIdTUOvo-unsplash"
+          "en-US": "imbibe"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/LkWkisSeBiTaYyaaH6OTr/1495d4590cc02d307d1804f1f78786d7/plush-design-studio-y7GlIdTUOvo-unsplash.jpg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/LkWkisSeBiTaYyaaH6OTr/d32023c78af8edd28688e6b60ca7fd43/Website_Works__2_.png",
             "details": {
-              "size": 1083697,
+              "size": 300438,
               "image": {
-                "width": 4608,
-                "height": 3456
+                "width": 2000,
+                "height": 1250
               }
             },
-            "fileName": "plush-design-studio-y7GlIdTUOvo-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Website_Works (2).png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4300,7 +4156,7 @@
         "id": "18ZNTGLiqsZUOadteGwojO",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.366Z",
-        "updatedAt": "2021-02-17T23:10:45.135Z",
+        "updatedAt": "2021-02-25T22:39:36.621Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4308,8 +4164,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2021-02-17T23:10:45.135Z",
+        "publishedVersion": 30,
+        "publishedAt": "2021-02-25T22:39:36.621Z",
         "firstPublishedAt": "2021-02-16T23:56:43.525Z",
         "createdBy": {
           "sys": {
@@ -4325,8 +4181,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 7,
-        "version": 23,
+        "publishedCounter": 9,
+        "version": 31,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4337,20 +4193,20 @@
       },
       "fields": {
         "title": {
-          "en-US": "ross-findon-mG28olYFgHI-unsplash"
+          "en-US": "fullsnack"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/18ZNTGLiqsZUOadteGwojO/29cb54efe1d5427a5f534f4d43cc3d65/ross-findon-mG28olYFgHI-unsplash.jpg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/18ZNTGLiqsZUOadteGwojO/89d20944fe48f754738433bce130235a/Website_Works__5_.png",
             "details": {
-              "size": 1285351,
+              "size": 3140570,
               "image": {
-                "width": 5312,
-                "height": 2988
+                "width": 2000,
+                "height": 1250
               }
             },
-            "fileName": "ross-findon-mG28olYFgHI-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Website_Works (5).png",
+            "contentType": "image/png"
           }
         }
       }
