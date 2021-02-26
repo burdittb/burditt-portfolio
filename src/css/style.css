@@ -697,6 +697,7 @@ pre {
   font-weight: 600;
   margin-right: 10px;
   border-radius: 5px;
+  outline: none;
 }
 .post-social button:after {
   content: '';
