@@ -17,7 +17,7 @@ const IndexPage = ({ data }) => (
   <Layout header="home">
     <SEO
       title={data.contentfulAboutMe.designation}
-      keywords={[`Rohit Gupta`, `Frontend Developer`, `Developer`]}
+      keywords={[`Brandie Burditt`, `Full Stack Developer`, `Developer`]}
     />
     <Banner data={data.contentfulAboutMe}></Banner>
 
@@ -41,13 +41,13 @@ const IndexPage = ({ data }) => (
         return <Blogs key="Blogs" data={data.allContentfulBlogs}></Blogs>;
       })}
 
-    {data.contentfulSiteInformation.menus
+    {/* {data.contentfulSiteInformation.menus
       .filter((item) => item === 'Work')
       .map((t) => {
         return <Work key="Work" data={data.allContentfulWorks}></Work>;
-      })}
+      })} */}
 
-    {data.contentfulSiteInformation.menus
+    {/* {data.contentfulSiteInformation.menus
       .filter((item) => item === 'Testimonials')
       .map((t) => {
         return (
@@ -56,13 +56,13 @@ const IndexPage = ({ data }) => (
             data={data.allContentfulTestimonials}
           ></Testimonial>
         );
-      })}
+      })} */}
 
-    {data.contentfulSiteInformation.menus
+    {/* {data.contentfulSiteInformation.menus
       .filter((item) => item === 'Photos')
       .map((t) => {
         return <Photos key="Photos" data={data.contentfulPhotos}></Photos>;
-      })}
+      })} */}
 
     {data.contentfulSiteInformation.menus
       .filter((item) => item === 'Contact')

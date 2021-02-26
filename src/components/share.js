@@ -1,10 +1,10 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react';
+import PropTypes from 'prop-types';
 import {
   FacebookShareButton,
   TwitterShareButton,
-  WhatsappShareButton
-} from "react-share";
+  WhatsappShareButton,
+} from 'react-share';
 
 const Share = ({ socialConfig }) => {
   return (
@@ -23,7 +23,6 @@ const Share = ({ socialConfig }) => {
         url={socialConfig.config.url}
         className="button is-outlined is-rounded twitter"
         title={socialConfig.config.title}
-        via="_rohitguptab"
       >
         <span className="icon">
           <i className="fab fa-twitter"></i>
@@ -49,13 +48,13 @@ Share.propTypes = {
     twitterHandle: PropTypes.string.isRequired,
     config: PropTypes.shape({
       url: PropTypes.string.isRequired,
-      title: PropTypes.string.isRequired
-    })
+      title: PropTypes.string.isRequired,
+    }),
   }).isRequired,
-  tags: PropTypes.arrayOf(PropTypes.string)
+  tags: PropTypes.arrayOf(PropTypes.string),
 };
 Share.defaultProps = {
-  tags: []
+  tags: [],
 };
 
 export default Share;

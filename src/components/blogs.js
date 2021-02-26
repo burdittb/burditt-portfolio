@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import Img from "gatsby-image";
-import { Link } from "gatsby";
-import moment from "moment";
+import React, { Component } from 'react';
+import Img from 'gatsby-image';
+import { Link } from 'gatsby';
+// import moment from 'moment';
 
 export default class Blogs extends Component {
   render() {
@@ -10,10 +10,10 @@ export default class Blogs extends Component {
       <div className="blogs-section section" id="Blogs">
         <div className="container">
           <div className="section-head">
-            <h2>Blogs</h2>
+            <h2>Work</h2>
           </div>
           <ul
-            className={`blogs-list ${data.edges.length < 5 ? "few-blogs" : ""}`}
+            className={`blogs-list ${data.edges.length < 5 ? 'few-blogs' : ''}`}
           >
             {data.edges.map((item, index) => {
               return (
@@ -32,10 +32,9 @@ export default class Blogs extends Component {
                     )}
                     <div className="details">
                       <h3 className="title">{item.node.title}</h3>
-                      <span className="date">
-                        <i className="fas fa-calendar-alt"></i>{" "}
-                        {moment(item.node.createdAt).format("LL")}
-                      </span>
+                      {/* <span className="date">
+                        {moment(item.node.createdAt).format('LL')}
+                      </span> */}
                     </div>
                   </div>
                 </li>
@@ -44,7 +43,7 @@ export default class Blogs extends Component {
           </ul>
           <div className="see-more">
             <Link to="/blogs">
-              <span>More Blogs</span>
+              <span>More Work</span>
             </Link>
           </div>
         </div>

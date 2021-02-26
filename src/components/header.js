@@ -65,17 +65,17 @@ export default class Header extends Component {
                         </li>
                       );
                     })}
-                  {/* {data.menus
+                  {data.menus
                     .filter((item) => item === 'Blogs')
                     .map((t) => {
                       return (
                         <li key="Blogs">
-                          <Link to={`/#Blogs`}>Blogs</Link>
+                          <Link to={`/#Blogs`}>Work</Link>
                         </li>
                       );
-                    })} */}
+                    })}
 
-                  {data.menus
+                  {/* {data.menus
                     .filter((item) => item === 'Work')
                     .map((t) => {
                       return (
@@ -83,7 +83,7 @@ export default class Header extends Component {
                           <Link to={`/#Work`}>Work</Link>
                         </li>
                       );
-                    })}
+                    })} */}
                   {/* {data.menus
                     .filter((item) => item === 'Testimonials')
                     .map((t) => {
@@ -125,16 +125,16 @@ export default class Header extends Component {
                   <li key="home">
                     <Link to="/#home">Home</Link>
                   </li>
-                  {/* {data.menus
+                  {data.menus
                     .filter((item) => item === 'Blogs')
                     .map((t) => {
                       return (
                         <li key="blogs">
-                          <Link to="/blogs">Blogs</Link>
+                          <Link to="/blogs">Work</Link>
                         </li>
                       );
                     })}
-                  {data.menus
+                  {/* {data.menus
                     .filter((item) => item === 'Photos')
                     .map((t) => {
                       return (
