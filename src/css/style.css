@@ -6,7 +6,7 @@ img {
   max-width: 100%;
 }
 .site-header {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(10, 10, 10, 0.65);
   position: fixed;
   top: 0;
   left: 0;
@@ -451,7 +451,7 @@ form > div {
   transition: 0.5s all;
 }
 .blogs-list .item .inner .details {
-  padding: 10px 20px;
+  padding: 8px 20px 6px 20px;
   position: absolute;
   width: 100%;
   bottom: 18px;
@@ -459,7 +459,7 @@ form > div {
   right: 0;
   z-index: 1;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(30, 30, 30, 0.65);
 }
 .blogs-list .item .inner img {
   width: 100% !important;
@@ -472,6 +472,7 @@ form > div {
 .blogs-list .item .inner .details .title {
   margin-bottom: 0px;
   text-shadow: 1px 1px 4px #333;
+  font-size: 20px;
 }
 .blogs-list .item .inner .details .title a {
   color: #fff;
