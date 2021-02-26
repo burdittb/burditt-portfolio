@@ -12,7 +12,7 @@
         "id": "testimonials",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:42.319Z",
-        "updatedAt": "2021-02-17T23:06:02.174Z",
+        "updatedAt": "2021-02-26T17:05:18.303Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20,8 +20,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:02.174Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:18.303Z",
         "firstPublishedAt": "2021-02-16T23:54:45.055Z",
         "createdBy": {
           "sys": {
@@ -37,8 +37,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -110,7 +110,7 @@
         "id": "service",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:42.336Z",
-        "updatedAt": "2021-02-17T23:06:02.543Z",
+        "updatedAt": "2021-02-26T17:05:18.755Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -118,8 +118,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:02.543Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:18.755Z",
         "firstPublishedAt": "2021-02-16T23:54:45.419Z",
         "createdBy": {
           "sys": {
@@ -135,8 +135,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -185,7 +185,7 @@
         "id": "photos",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:42.363Z",
-        "updatedAt": "2021-02-17T23:06:01.812Z",
+        "updatedAt": "2021-02-26T17:05:17.892Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -193,8 +193,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:01.812Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:17.892Z",
         "firstPublishedAt": "2021-02-16T23:54:44.553Z",
         "createdBy": {
           "sys": {
@@ -210,8 +210,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -266,7 +266,7 @@
         "id": "works",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:42.374Z",
-        "updatedAt": "2021-02-17T23:06:01.989Z",
+        "updatedAt": "2021-02-26T17:05:18.090Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -274,8 +274,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:01.989Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:18.090Z",
         "firstPublishedAt": "2021-02-16T23:54:44.793Z",
         "createdBy": {
           "sys": {
@@ -291,8 +291,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -353,7 +353,7 @@
         "id": "siteInformation",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:42.737Z",
-        "updatedAt": "2021-02-17T23:06:01.623Z",
+        "updatedAt": "2021-02-26T17:05:17.671Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -361,8 +361,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:01.623Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:17.671Z",
         "firstPublishedAt": "2021-02-16T23:54:44.297Z",
         "createdBy": {
           "sys": {
@@ -378,8 +378,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -489,7 +489,7 @@
         "id": "aboutMe",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:43.667Z",
-        "updatedAt": "2021-02-17T23:06:01.226Z",
+        "updatedAt": "2021-02-26T17:05:17.265Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -497,8 +497,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:01.226Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:17.265Z",
         "firstPublishedAt": "2021-02-16T23:54:44.025Z",
         "createdBy": {
           "sys": {
@@ -514,8 +514,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -715,7 +715,7 @@
         "id": "blogs",
         "type": "ContentType",
         "createdAt": "2021-02-16T23:54:43.820Z",
-        "updatedAt": "2021-02-17T23:06:02.361Z",
+        "updatedAt": "2021-02-26T17:05:18.510Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -723,8 +723,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2021-02-17T23:06:02.361Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-02-26T17:05:18.510Z",
         "firstPublishedAt": "2021-02-16T23:54:45.245Z",
         "createdBy": {
           "sys": {
@@ -740,8 +740,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 16,
+        "publishedCounter": 9,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -816,7 +816,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:45.121Z",
         "createdBy": {
           "sys": {
@@ -825,7 +825,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:04.460Z",
+        "updatedAt": "2021-02-26T17:05:19.060Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -882,7 +882,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:45.497Z",
         "createdBy": {
           "sys": {
@@ -891,7 +891,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:06.189Z",
+        "updatedAt": "2021-02-26T17:05:22.450Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -938,7 +938,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:44.620Z",
         "createdBy": {
           "sys": {
@@ -947,7 +947,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:04.468Z",
+        "updatedAt": "2021-02-26T17:05:20.741Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -994,7 +994,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:44.862Z",
         "createdBy": {
           "sys": {
@@ -1003,7 +1003,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:06.114Z",
+        "updatedAt": "2021-02-26T17:05:22.572Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -1055,7 +1055,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:44.414Z",
         "createdBy": {
           "sys": {
@@ -1064,7 +1064,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:04.451Z",
+        "updatedAt": "2021-02-26T17:05:20.765Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -1131,7 +1131,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:44.105Z",
         "createdBy": {
           "sys": {
@@ -1140,7 +1140,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:04.448Z",
+        "updatedAt": "2021-02-26T17:05:20.829Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -1252,7 +1252,7 @@
             "linkType": "Space"
           }
         },
-        "version": 16,
+        "version": 18,
         "createdAt": "2021-02-16T23:54:45.302Z",
         "createdBy": {
           "sys": {
@@ -1261,7 +1261,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-02-17T23:06:06.704Z",
+        "updatedAt": "2021-02-26T17:05:19.099Z",
         "updatedBy": {
           "sys": {
             "id": "28CjsXJhLdmsddgYPAdIOO",
@@ -1735,7 +1735,7 @@
         "id": "6caZg1KgLxQN4VE2QOJbCk",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:46.402Z",
-        "updatedAt": "2021-02-25T01:00:55.729Z",
+        "updatedAt": "2021-02-26T19:48:16.084Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1743,8 +1743,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 61,
-        "publishedAt": "2021-02-25T01:00:55.729Z",
+        "publishedVersion": 65,
+        "publishedAt": "2021-02-26T19:48:16.084Z",
         "firstPublishedAt": "2021-02-16T23:56:49.203Z",
         "createdBy": {
           "sys": {
@@ -1760,8 +1760,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 14,
-        "version": 62,
+        "publishedCounter": 15,
+        "version": 66,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1803,7 +1803,7 @@
           }
         },
         "description": {
-          "en-US": "My love for development stems from a love of problem solving. I enjoy true crime, mysteries, puzzles, riddles - anything that I can mull on throughout the day. An instructor actually once described my debugging style as “being a detective on the case,” and that was before they knew about all the true crime podcasts. \n\nThe ability to have a fulfilling career that affords me the opportunity to use my professional skills for meaningful side projects motivated me to finally take the plunge and work towards becoming a developer. My ability to sew a garment or design an accessory doesn’t translate all that well to doing community work or spreading equity whereas the ability to bring sustainable and inclusive ideals to development is an actually achievable way to work towards a positive social impact.\n\nWhen I'm not programming, you can find me baking or working my way (slowly but determinedly) through translated Japanese pattern-making books."
+          "en-US": "My love for development stems from a love of problem solving. I enjoy true crime, mysteries, puzzles, riddles - anything that I can mull on throughout the day. An instructor once described my debugging style as “being a detective on the case,” and that was before they knew about all the true crime podcasts. \n\nThe ability to have a fulfilling career that affords me the opportunity to use my professional skills for meaningful work motivated me to finally take the plunge and work towards becoming a developer. My ability to sew a garment or design an accessory doesn’t translate all that well to doing community work or spreading equity whereas the ability to bring sustainable and inclusive ideals to the services we use everyday is an actually achievable way to work towards a positive social impact.\n\nWhen I'm not programming, you can find me baking or working my way (slowly but determinedly) through translated Japanese pattern-making books."
         },
         "age": {
           "en-US": "30"
@@ -2725,7 +2725,7 @@
         "id": "1SI8CkaEpAjaXLVcUkcIPA",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.266Z",
-        "updatedAt": "2021-02-25T20:38:17.033Z",
+        "updatedAt": "2021-02-26T17:05:22.744Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2751,7 +2751,7 @@
           }
         },
         "publishedCounter": 9,
-        "version": 32,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2762,20 +2762,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "parallel-cover"
+          "en-US": "johnson-wang-iI4sR nkkbc-unsplash"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1SI8CkaEpAjaXLVcUkcIPA/25f262dcf2f3d393dadd1467e3ceefeb/Website_Works__1_.png",
-            "details": {
-              "size": 1036762,
-              "image": {
-                "width": 2000,
-                "height": 1250
-              }
-            },
-            "fileName": "Website_Works (1).png",
-            "contentType": "image/png"
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/1SI8CkaEpAjaXLVcUkcIPA/89f16fa3bc77596632bee9db3bd2ff49/johnson-wang-iI4sR_nkkbc-unsplash.jpg",
+            "fileName": "johnson-wang-iI4sR_nkkbc-unsplash.jpg",
+            "contentType": "image/jpeg"
           }
         }
       }
@@ -2792,7 +2785,7 @@
         "id": "4yXZnfglqynUp9M1BwYzGy",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.288Z",
-        "updatedAt": "2021-02-21T20:20:10.713Z",
+        "updatedAt": "2021-02-26T19:47:07.196Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2800,8 +2793,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 26,
-        "publishedAt": "2021-02-21T20:20:10.713Z",
+        "publishedVersion": 32,
+        "publishedAt": "2021-02-26T19:47:07.196Z",
         "firstPublishedAt": "2021-02-16T23:56:44.211Z",
         "createdBy": {
           "sys": {
@@ -2817,8 +2810,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 27,
+        "publishedCounter": 9,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2829,11 +2822,11 @@
       },
       "fields": {
         "title": {
-          "en-US": "burditt"
+          "en-US": "burditt-portrait"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/4yXZnfglqynUp9M1BwYzGy/4e9d2d1dc44a4336e00016709646f494/IMG_2819_copy_square.jpeg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/4yXZnfglqynUp9M1BwYzGy/aaeccfd70d061c895ca84f0f8c21cc93/IMG_2819_copy_square.jpeg",
             "details": {
               "size": 575234,
               "image": {
@@ -2859,7 +2852,7 @@
         "id": "48G4Y9AtIb3gNFex4yAE9N",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.290Z",
-        "updatedAt": "2021-02-17T23:10:46.019Z",
+        "updatedAt": "2021-02-26T17:05:29.304Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2885,7 +2878,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 25,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2900,7 +2893,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/48G4Y9AtIb3gNFex4yAE9N/794cf23409a4be1cc2459abeb7648af3/safar-safarov-MSN8TFhJ0is-unsplash.webp",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/48G4Y9AtIb3gNFex4yAE9N/8bf44d9c3422726253220f6cbe2edd91/safar-safarov-MSN8TFhJ0is-unsplash.webp",
             "details": {
               "size": 209314,
               "image": {
@@ -2926,7 +2919,7 @@
         "id": "7yHuAa09NVOcZ25POk7cbM",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.305Z",
-        "updatedAt": "2021-02-23T20:45:41.142Z",
+        "updatedAt": "2021-02-26T19:54:02.070Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2934,8 +2927,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 48,
-        "publishedAt": "2021-02-23T20:45:41.142Z",
+        "publishedVersion": 54,
+        "publishedAt": "2021-02-26T19:54:02.070Z",
         "firstPublishedAt": "2021-02-16T23:56:43.984Z",
         "createdBy": {
           "sys": {
@@ -2951,8 +2944,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 11,
-        "version": 49,
+        "publishedCounter": 12,
+        "version": 55,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2967,7 +2960,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7yHuAa09NVOcZ25POk7cbM/798cfc213a3795b306c7d80a7af7af71/Brandie_Logo.png",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7yHuAa09NVOcZ25POk7cbM/ea58d780ab379272908523508b69181b/Brandie_Logo.png",
             "details": {
               "size": 9823,
               "image": {
@@ -2993,7 +2986,7 @@
         "id": "5053xqiD6rGY5Z3xDASnAo",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.312Z",
-        "updatedAt": "2021-02-21T20:19:44.427Z",
+        "updatedAt": "2021-02-26T19:45:48.838Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3001,8 +2994,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 27,
-        "publishedAt": "2021-02-21T20:19:44.427Z",
+        "publishedVersion": 34,
+        "publishedAt": "2021-02-26T19:45:48.838Z",
         "firstPublishedAt": "2021-02-16T23:56:38.047Z",
         "createdBy": {
           "sys": {
@@ -3018,8 +3011,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 28,
+        "publishedCounter": 9,
+        "version": 35,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3034,7 +3027,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/5053xqiD6rGY5Z3xDASnAo/e22ad23a51dae57298d98e084d34a94b/IMG_2819.jpeg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/5053xqiD6rGY5Z3xDASnAo/c90e9315aa5d9a2e3b8e141ee873843d/IMG_2819.jpeg",
             "details": {
               "size": 779927,
               "image": {
@@ -3060,7 +3053,7 @@
         "id": "32Vh1BnHEripiMFnxck0uH",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:49.595Z",
-        "updatedAt": "2021-02-26T13:51:19.760Z",
+        "updatedAt": "2021-02-26T19:52:22.922Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3068,8 +3061,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 27,
-        "publishedAt": "2021-02-26T13:51:19.760Z",
+        "publishedVersion": 34,
+        "publishedAt": "2021-02-26T19:52:22.922Z",
         "firstPublishedAt": "2021-02-16T23:56:38.996Z",
         "createdBy": {
           "sys": {
@@ -3085,8 +3078,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 28,
+        "publishedCounter": 9,
+        "version": 35,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3101,7 +3094,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/32Vh1BnHEripiMFnxck0uH/d97fa77a0a4fe306c9313155b59cab8a/Website_Works__5_.png",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/32Vh1BnHEripiMFnxck0uH/e384bcc6d47a41948f43fc36c1fd5fc6/Website_Works__5_.png",
             "details": {
               "size": 3140570,
               "image": {
@@ -3127,7 +3120,7 @@
         "id": "3jZ2ne8tOyoN7s3Yem2Hqm",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.170Z",
-        "updatedAt": "2021-02-25T00:34:37.880Z",
+        "updatedAt": "2021-02-26T19:49:13.040Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3135,8 +3128,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 26,
-        "publishedAt": "2021-02-25T00:34:37.879Z",
+        "publishedVersion": 32,
+        "publishedAt": "2021-02-26T19:49:13.040Z",
         "firstPublishedAt": "2021-02-16T23:56:38.204Z",
         "createdBy": {
           "sys": {
@@ -3152,8 +3145,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 27,
+        "publishedCounter": 9,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3164,11 +3157,11 @@
       },
       "fields": {
         "title": {
-          "en-US": "simon-abrams-k T9Zj3SE8k-unsplash"
+          "en-US": "banner-img"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/3jZ2ne8tOyoN7s3Yem2Hqm/6f81574bc1d82b6608dd5174dea53868/56D2E186-50B9-4F6F-B550-8F936054982E.jpeg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/3jZ2ne8tOyoN7s3Yem2Hqm/4631b6ba6857fd19ea9505fa6d9f9724/56D2E186-50B9-4F6F-B550-8F936054982E.jpeg",
             "details": {
               "size": 3330450,
               "image": {
@@ -3194,7 +3187,7 @@
         "id": "1fANVR8QZYfacMuIMcMT2G",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.205Z",
-        "updatedAt": "2021-02-17T23:10:42.116Z",
+        "updatedAt": "2021-02-26T17:05:31.647Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3220,7 +3213,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 25,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3235,7 +3228,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1fANVR8QZYfacMuIMcMT2G/3c26ea64238578db0bcb9ca45b7d721e/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1fANVR8QZYfacMuIMcMT2G/9f6208a1e898098293f0dfec8a72b291/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
             "details": {
               "size": 375439,
               "image": {
@@ -3261,7 +3254,7 @@
         "id": "1cxUznYGiPOJ5GNNpkVAOr",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.207Z",
-        "updatedAt": "2021-02-17T23:10:42.349Z",
+        "updatedAt": "2021-02-26T17:05:33.563Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3287,7 +3280,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 25,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3302,7 +3295,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1cxUznYGiPOJ5GNNpkVAOr/e74cf811cc780277174d2b1009bf210a/kristopher-roller-PC_lbSSxCZE-unsplash.jpg",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1cxUznYGiPOJ5GNNpkVAOr/f213072579fdc28c7d902fb4e581f1eb/kristopher-roller-PC_lbSSxCZE-unsplash.jpg",
             "details": {
               "size": 4426599,
               "image": {
@@ -3328,7 +3321,7 @@
         "id": "7IyIhq0ijQoK3asaaOMQJM",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.232Z",
-        "updatedAt": "2021-02-26T01:11:29.951Z",
+        "updatedAt": "2021-02-26T19:53:25.519Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3336,8 +3329,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 27,
-        "publishedAt": "2021-02-26T01:11:29.951Z",
+        "publishedVersion": 33,
+        "publishedAt": "2021-02-26T19:53:25.519Z",
         "firstPublishedAt": "2021-02-16T23:56:38.355Z",
         "createdBy": {
           "sys": {
@@ -3353,8 +3346,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 28,
+        "publishedCounter": 9,
+        "version": 34,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3369,7 +3362,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7IyIhq0ijQoK3asaaOMQJM/2fe4fcce0a524a0b0247469aedbe051e/Website_Works__1_.png",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7IyIhq0ijQoK3asaaOMQJM/b64d6661b245ee0c8d8d76eac7c5ed58/Website_Works__1_.png",
             "details": {
               "size": 1036762,
               "image": {
@@ -3395,7 +3388,7 @@
         "id": "1TdUwUBvE0LUiuESgXyi3C",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.303Z",
-        "updatedAt": "2021-02-17T23:10:42.591Z",
+        "updatedAt": "2021-02-26T17:05:24.549Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3421,7 +3414,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3436,14 +3429,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/1TdUwUBvE0LUiuESgXyi3C/245d373585fe555511dfa4f899babea5/dustin-lee-jLwVAUtLOAQ-unsplash.jpg",
-            "details": {
-              "size": 2085877,
-              "image": {
-                "width": 4000,
-                "height": 2667
-              }
-            },
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/1TdUwUBvE0LUiuESgXyi3C/b86e08d2d32f950dddc33584159d91d5/dustin-lee-jLwVAUtLOAQ-unsplash.jpg",
             "fileName": "dustin-lee-jLwVAUtLOAQ-unsplash.jpg",
             "contentType": "image/jpeg"
           }
@@ -3462,7 +3448,7 @@
         "id": "3GzB8VwODxcATgqYrZLXcA",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.437Z",
-        "updatedAt": "2021-02-26T01:59:46.614Z",
+        "updatedAt": "2021-02-26T19:51:51.014Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3470,8 +3456,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 26,
-        "publishedAt": "2021-02-26T01:59:46.614Z",
+        "publishedVersion": 32,
+        "publishedAt": "2021-02-26T19:51:51.014Z",
         "firstPublishedAt": "2021-02-16T23:56:39.305Z",
         "createdBy": {
           "sys": {
@@ -3487,8 +3473,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 27,
+        "publishedCounter": 9,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3503,7 +3489,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/3GzB8VwODxcATgqYrZLXcA/b29c3cb58e9c2f78fbfb004e8ae728e4/Website_Works__2_.png",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/3GzB8VwODxcATgqYrZLXcA/506639feeea2743b855999480735b4ed/Website_Works__2_.png",
             "details": {
               "size": 300438,
               "image": {
@@ -3529,7 +3515,7 @@
         "id": "5wQiuLEmv6IpivkRvSeEFf",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:51.446Z",
-        "updatedAt": "2021-02-17T23:10:43.739Z",
+        "updatedAt": "2021-02-26T17:05:28.685Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3555,7 +3541,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3570,14 +3556,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/5wQiuLEmv6IpivkRvSeEFf/99834406348015dcba4ca40aac23c369/thomas-lefebvre-gp8BLyaTaA0-unsplash.jpg",
-            "details": {
-              "size": 737124,
-              "image": {
-                "width": 4705,
-                "height": 3137
-              }
-            },
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/5wQiuLEmv6IpivkRvSeEFf/2c2fcaaa1d475e2831184c46f8e37812/thomas-lefebvre-gp8BLyaTaA0-unsplash.jpg",
             "fileName": "thomas-lefebvre-gp8BLyaTaA0-unsplash.jpg",
             "contentType": "image/jpeg"
           }
@@ -3596,7 +3575,7 @@
         "id": "4MDGnTnc4h5DbSlWscJKrF",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.078Z",
-        "updatedAt": "2021-02-17T23:10:44.155Z",
+        "updatedAt": "2021-02-26T17:05:26.437Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3622,7 +3601,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3637,14 +3616,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/4MDGnTnc4h5DbSlWscJKrF/88d3bf246485d9953c4f81eb41cd73f7/john-baker-3To9V42K0Ag-unsplash.jpg",
-            "details": {
-              "size": 523952,
-              "image": {
-                "width": 2627,
-                "height": 1642
-              }
-            },
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/4MDGnTnc4h5DbSlWscJKrF/cb43f6d520a0ff6c5df87e542da77795/john-baker-3To9V42K0Ag-unsplash.jpg",
             "fileName": "john-baker-3To9V42K0Ag-unsplash.jpg",
             "contentType": "image/jpeg"
           }
@@ -3663,7 +3635,7 @@
         "id": "4R3Nt1Xxk9zUtIAkWqPrW3",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.151Z",
-        "updatedAt": "2021-02-17T23:10:44.355Z",
+        "updatedAt": "2021-02-26T17:05:28.637Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3689,7 +3661,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3704,14 +3676,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/4R3Nt1Xxk9zUtIAkWqPrW3/9ab8707696938b74fe73cb0f62cf4144/stefan-cosma-0gO3-b-5m80-unsplash.jpg",
-            "details": {
-              "size": 1033394,
-              "image": {
-                "width": 6000,
-                "height": 4000
-              }
-            },
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/4R3Nt1Xxk9zUtIAkWqPrW3/6a2e42736f6f5b22d3a18bbc4abd8364/stefan-cosma-0gO3-b-5m80-unsplash.jpg",
             "fileName": "stefan-cosma-0gO3-b-5m80-unsplash.jpg",
             "contentType": "image/jpeg"
           }
@@ -3730,7 +3695,7 @@
         "id": "17Df0rX2XAdX0Vcg6DCXXv",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.271Z",
-        "updatedAt": "2021-02-17T23:10:44.676Z",
+        "updatedAt": "2021-02-26T17:05:26.133Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3756,7 +3721,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3771,14 +3736,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/17Df0rX2XAdX0Vcg6DCXXv/495b49624796c592eae279b9e3cfc2bc/sydney-rae-geM5lzDj4Iw-unsplash.jpg",
-            "details": {
-              "size": 1572492,
-              "image": {
-                "width": 2208,
-                "height": 1472
-              }
-            },
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/17Df0rX2XAdX0Vcg6DCXXv/381529f915461087c752cd96da8574b5/sydney-rae-geM5lzDj4Iw-unsplash.jpg",
             "fileName": "sydney-rae-geM5lzDj4Iw-unsplash.jpg",
             "contentType": "image/jpeg"
           }
@@ -3797,7 +3755,7 @@
         "id": "5lvkZ1FDXMzUud9VKR1Ruq",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.358Z",
-        "updatedAt": "2021-02-25T22:41:42.741Z",
+        "updatedAt": "2021-02-26T17:05:26.336Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3808,6 +3766,126 @@
         "publishedVersion": 31,
         "publishedAt": "2021-02-25T22:41:42.741Z",
         "firstPublishedAt": "2021-02-16T23:56:39.136Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "28CjsXJhLdmsddgYPAdIOO"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "28CjsXJhLdmsddgYPAdIOO"
+          }
+        },
+        "publishedCounter": 9,
+        "version": 33,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "28CjsXJhLdmsddgYPAdIOO"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "jesus-kiteque-wn-KYaHwcis-unsplash"
+        },
+        "file": {
+          "en-US": {
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/5lvkZ1FDXMzUud9VKR1Ruq/8e9a3e8885e0526409082280ec61e0af/jesus-kiteque-wn-KYaHwcis-unsplash.jpg",
+            "fileName": "jesus-kiteque-wn-KYaHwcis-unsplash.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "0q8cvx9xq4bd"
+          }
+        },
+        "id": "LkWkisSeBiTaYyaaH6OTr",
+        "type": "Asset",
+        "createdAt": "2021-02-16T23:54:53.364Z",
+        "updatedAt": "2021-02-26T17:05:25.939Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 27,
+        "publishedAt": "2021-02-25T21:09:07.593Z",
+        "firstPublishedAt": "2021-02-16T23:56:40.002Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "28CjsXJhLdmsddgYPAdIOO"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "28CjsXJhLdmsddgYPAdIOO"
+          }
+        },
+        "publishedCounter": 8,
+        "version": 29,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "28CjsXJhLdmsddgYPAdIOO"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "plush-design-studio-y7GlIdTUOvo-unsplash"
+        },
+        "file": {
+          "en-US": {
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg",
+            "fileName": "plush-design-studio-y7GlIdTUOvo-unsplash.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "0q8cvx9xq4bd"
+          }
+        },
+        "id": "18ZNTGLiqsZUOadteGwojO",
+        "type": "Asset",
+        "createdAt": "2021-02-16T23:54:53.366Z",
+        "updatedAt": "2021-02-26T17:05:28.294Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 30,
+        "publishedAt": "2021-02-25T22:39:36.621Z",
+        "firstPublishedAt": "2021-02-16T23:56:43.525Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -3834,154 +3912,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "create and deploy a pwa"
+          "en-US": "ross-findon-mG28olYFgHI-unsplash"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/5lvkZ1FDXMzUud9VKR1Ruq/d52afba20728c0ab3c104f8a31cc143f/Website_Works__7_.png",
-            "details": {
-              "size": 669197,
-              "image": {
-                "width": 2000,
-                "height": 1250
-              }
-            },
-            "fileName": "Website_Works (7).png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "0q8cvx9xq4bd"
-          }
-        },
-        "id": "LkWkisSeBiTaYyaaH6OTr",
-        "type": "Asset",
-        "createdAt": "2021-02-16T23:54:53.364Z",
-        "updatedAt": "2021-02-25T21:09:07.593Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 27,
-        "publishedAt": "2021-02-25T21:09:07.593Z",
-        "firstPublishedAt": "2021-02-16T23:56:40.002Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "publishedCounter": 8,
-        "version": 28,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "imbibe"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/LkWkisSeBiTaYyaaH6OTr/d32023c78af8edd28688e6b60ca7fd43/Website_Works__2_.png",
-            "details": {
-              "size": 300438,
-              "image": {
-                "width": 2000,
-                "height": 1250
-              }
-            },
-            "fileName": "Website_Works (2).png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "0q8cvx9xq4bd"
-          }
-        },
-        "id": "18ZNTGLiqsZUOadteGwojO",
-        "type": "Asset",
-        "createdAt": "2021-02-16T23:54:53.366Z",
-        "updatedAt": "2021-02-25T22:39:36.621Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 30,
-        "publishedAt": "2021-02-25T22:39:36.621Z",
-        "firstPublishedAt": "2021-02-16T23:56:43.525Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        },
-        "publishedCounter": 9,
-        "version": 31,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "28CjsXJhLdmsddgYPAdIOO"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "fullsnack"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/18ZNTGLiqsZUOadteGwojO/89d20944fe48f754738433bce130235a/Website_Works__5_.png",
-            "details": {
-              "size": 3140570,
-              "image": {
-                "width": 2000,
-                "height": 1250
-              }
-            },
-            "fileName": "Website_Works (5).png",
-            "contentType": "image/png"
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/18ZNTGLiqsZUOadteGwojO/19df9ba6c1a86b45b7215807167027e5/ross-findon-mG28olYFgHI-unsplash.jpg",
+            "fileName": "ross-findon-mG28olYFgHI-unsplash.jpg",
+            "contentType": "image/jpeg"
           }
         }
       }
@@ -3998,7 +3935,7 @@
         "id": "7vfITnS5gebujPUeOVwLb",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.375Z",
-        "updatedAt": "2021-02-26T14:06:05.772Z",
+        "updatedAt": "2021-02-26T19:52:52.290Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4006,8 +3943,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 26,
-        "publishedAt": "2021-02-26T14:06:05.772Z",
+        "publishedVersion": 32,
+        "publishedAt": "2021-02-26T19:52:52.290Z",
         "firstPublishedAt": "2021-02-16T23:56:43.342Z",
         "createdBy": {
           "sys": {
@@ -4023,8 +3960,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 8,
-        "version": 27,
+        "publishedCounter": 9,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4035,11 +3972,11 @@
       },
       "fields": {
         "title": {
-          "en-US": "create-pwa-img"
+          "en-US": "create-img"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7vfITnS5gebujPUeOVwLb/ff8c8bc4f155cc64d51688a45bb2ceb4/Website_Works__7_.png",
+            "url": "//images.ctfassets.net/0q8cvx9xq4bd/7vfITnS5gebujPUeOVwLb/5038c1a7b64729c04b6245a96eafbd64/Website_Works__7_.png",
             "details": {
               "size": 669197,
               "image": {
@@ -4065,7 +4002,7 @@
         "id": "018YEl9qSSZ3sbfhQdhgxI",
         "type": "Asset",
         "createdAt": "2021-02-16T23:54:53.412Z",
-        "updatedAt": "2021-02-17T23:10:44.836Z",
+        "updatedAt": "2021-02-26T17:05:26.308Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4091,7 +4028,7 @@
           }
         },
         "publishedCounter": 7,
-        "version": 23,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4106,14 +4043,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/0q8cvx9xq4bd/018YEl9qSSZ3sbfhQdhgxI/236fcf3bab3f89bdf124fe5a2b371ba5/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg",
-            "details": {
-              "size": 2645070,
-              "image": {
-                "width": 5760,
-                "height": 3840
-              }
-            },
+            "upload": "https://images.ctfassets.net/4bwt4pzmqo4p/018YEl9qSSZ3sbfhQdhgxI/8aa9af5a880c9ee9c57de117716af239/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg",
             "fileName": "carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg",
             "contentType": "image/jpeg"
           }
