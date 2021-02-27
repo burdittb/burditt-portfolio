@@ -18,5 +18,6 @@ https://brandie.burditt.io/
 - Sections including About, Skills, Work, and Contact.
 - Media and content managed with Contentful.
 - Contact form with email notification using formspree.io.
+- Hosted with AWS.
 
   <!-- AUTO-GENERATED-CONTENT:END -->
