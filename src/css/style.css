@@ -103,7 +103,9 @@ body {
   padding: 0 15px;
   position: relative;
   font-size: 18px;
+  text-align: center;
   text-shadow: 1px 1px 4px #333;
+  align-self: center;
 }
 .banner .banner-details .sub-data li:after {
   content: '';
