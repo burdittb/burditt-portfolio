@@ -207,7 +207,8 @@ body {
   transition: 0.5s all;
 }
 .section {
-  padding: 50px 0;
+  margin-top: -65px;
+  padding: 110px 0 25px;
 }
 .section:nth-child(even) {
   background: #fff;
@@ -1030,8 +1031,8 @@ code {
     width: 100% !important;
   }
   .banner .banner-details h1 {
-    font-size: 34px;
-    margin-bottom: 10px;
+    font-size: 42px;
+    margin: 10px 0px;
   }
   .banner .banner-details span {
     font-size: 19px;
