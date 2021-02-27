@@ -2150,7 +2150,7 @@
         "id": "kvdWcngcAWfKNWbU8TMeL",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:47.640Z",
-        "updatedAt": "2021-02-26T14:38:19.080Z",
+        "updatedAt": "2021-02-27T18:41:09.171Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2158,8 +2158,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 24,
-        "publishedAt": "2021-02-26T14:38:19.080Z",
+        "publishedVersion": 27,
+        "publishedAt": "2021-02-27T18:41:09.171Z",
         "firstPublishedAt": "2021-02-16T23:56:52.406Z",
         "createdBy": {
           "sys": {
@@ -2175,8 +2175,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 9,
-        "version": 25,
+        "publishedCounter": 10,
+        "version": 28,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2209,7 +2209,7 @@
           }
         },
         "description": {
-          "en-US": "## [App](https://imbibe-app.web.app/ \"App\") | [GitHub](https://github.com/burdittb/imbibe \"GitHub\")\n\nPWA where users can look up cocktails recipes and images by names, ingredients, orrandom generation.\n\nBuilt with React, Material UI, CocktailDB API, Travis CI, and Firebase."
+          "en-US": "## [App](https://imbibe-app.web.app/ \"App\") | [GitHub](https://github.com/burdittb/imbibe \"GitHub\")\n\nA PWA where users can look up cocktails recipes and images by names, ingredients, or random generation.\n\nBuilt with React, Material UI, CocktailDB API, Travis CI, and Firebase."
         }
       }
     },
