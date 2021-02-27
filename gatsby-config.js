@@ -32,6 +32,12 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-remark`,
     {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: 'brandie.burditt.io',
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Brandie Burditt`,
