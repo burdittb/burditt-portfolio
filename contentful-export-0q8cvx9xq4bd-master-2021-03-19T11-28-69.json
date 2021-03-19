@@ -1310,6 +1310,10 @@
   ],
   "entries": [
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1373,6 +1377,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1436,6 +1444,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1499,6 +1511,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1574,6 +1590,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1649,6 +1669,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1724,6 +1748,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1848,6 +1876,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1920,6 +1952,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1992,6 +2028,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2064,6 +2104,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2139,6 +2183,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2214,6 +2262,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2225,7 +2277,7 @@
         "id": "6vSsam6O060OhAGGYlpn6I",
         "type": "Entry",
         "createdAt": "2021-02-16T23:56:47.697Z",
-        "updatedAt": "2021-02-26T14:37:16.172Z",
+        "updatedAt": "2021-03-19T15:26:51.240Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2233,8 +2285,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 30,
-        "publishedAt": "2021-02-26T14:37:16.172Z",
+        "publishedVersion": 34,
+        "publishedAt": "2021-03-19T15:26:51.240Z",
         "firstPublishedAt": "2021-02-16T23:56:52.185Z",
         "createdBy": {
           "sys": {
@@ -2250,8 +2302,8 @@
             "id": "28CjsXJhLdmsddgYPAdIOO"
           }
         },
-        "publishedCounter": 10,
-        "version": 31,
+        "publishedCounter": 11,
+        "version": 35,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2284,11 +2336,15 @@
           }
         },
         "description": {
-          "en-US": "## [Website](https://fullsnack-sweet-shop.herokuapp.com/ \"Website\") | [GitHub](https://github.com/burdittb/graceshopper-project \"GitHub\")\n\nE-commerce web app where users can satisfy their candy cravings.\n\nBuilt with the NERDS stack, Redux, Mocha, Chai, Google OAuth, Stripe, Mailgun, TravisCI, and Heroku"
+          "en-US": "## [Website](http://fullsnack-ecommerce.herokuapp.com/ \"Website\") | [GitHub](https://github.com/burdittb/fullsnack-sweet-shop \"GitHub\")\n\nE-commerce web app where users can satisfy their candy cravings.\n\nBuilt with the NERDS stack, Redux, Mocha/Chai, Google OAuth, Stripe, Mailgun, TravisCI, and Heroku."
         }
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2364,6 +2420,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2450,6 +2510,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2640,6 +2704,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2714,6 +2782,10 @@
   ],
   "assets": [
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2774,6 +2846,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2841,6 +2917,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2908,6 +2988,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -2975,6 +3059,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3042,6 +3130,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3109,6 +3201,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3176,6 +3272,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3243,6 +3343,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3310,6 +3414,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3377,6 +3485,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3437,6 +3549,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3504,6 +3620,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3564,6 +3684,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3624,6 +3748,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3684,6 +3812,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3744,6 +3876,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3804,6 +3940,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3864,6 +4004,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3924,6 +4068,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -3991,6 +4139,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
